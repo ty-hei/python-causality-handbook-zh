@@ -1,6 +1,6 @@
 # 因果推断：献给求真敢为者
 ---
-![brave-and-true](images/brave-and-true.png)
+![brave-and-true](/causal-inference-book/images/brave-and-true.png)
 
 [![DOI](https://zenodo.org/badge/255903310.svg)](https://zenodo.org/badge/latestdoi/255903310)  
 [![MIT License](https://img.shields.io/badge/code-MIT-brightgreen.svg)](LICENSE)  
