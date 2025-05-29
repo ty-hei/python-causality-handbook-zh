@@ -6,9 +6,9 @@
 [![MIT License](https://img.shields.io/badge/code-MIT-brightgreen.svg)](LICENSE)  
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/translation-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE-zh.md)  
 
-> **原书名**：Causal Inference for The Brave and True
+> **原书名**：Causal Inference for The Brave and True  
 > **原作者**：[Matheus Facure](https://github.com/matheusfacure/python-causality-handbook)  
-> **中文译者**：黄文喆 (Wenzhe Huang)  
+> **中文译者**：黄文喆 (Wenzhe Huang)  
 > **Live demo（中文版）**：<https://Wenzhe-Huang.github.io/python-causality-handbook-zh/>  
 > **Live demo（英文版）**：<https://matheusfacure.github.io/python-causality-handbook/>  
 
