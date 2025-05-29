@@ -1,5 +1,5 @@
 # 因果推断：献给求真敢为者
----
+
 ![brave-and-true](/causal-inference-book/images/brave-and-true.png)
 
 [![DOI](https://zenodo.org/badge/255903310.svg)](https://zenodo.org/badge/latestdoi/255903310)  
@@ -23,7 +23,6 @@
 
 那么，这本书，也许就是你一直在等的那一本。
 
----
 
 ## 📚 致谢与参考资料
 
@@ -43,7 +42,6 @@
 [Miguel Hernán](https://www.hsph.harvard.edu/miguel-hernan/)、
 [Jamie Robins](https://www.hsph.harvard.edu/james-robins/)
 
----
 
 ## 🚦 翻译进度
 
@@ -78,7 +76,6 @@
 
 📌 **欢迎认领章节、提交术语建议或案例补充!** 点击对应章节 PR 或在 Issues 区发起讨论。
 
----
 
 ## 📜 许可协议（License）
 
