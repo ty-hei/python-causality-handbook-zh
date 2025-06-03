@@ -23,3 +23,6 @@ parts:
       - file: 14-Panel-Data-and-Fixed-Effects
       - file: 15-Synthetic-Control
       - file: 16-Regression-Discontinuity-Design
+  - caption: 第二部分 - 阴
+    chapters: 
+      - file: 17-Predictive-Models-101
