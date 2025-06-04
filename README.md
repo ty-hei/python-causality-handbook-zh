@@ -13,7 +13,6 @@
 > **Live demo（中文版）**：<https://Wenzhe-Huang.github.io/python-causality-handbook-zh/>  
 > **Live demo（英文版）**：<https://matheusfacure.github.io/python-causality-handbook/>  
 
----
 
 ## 👥 关于本译本
 
@@ -74,16 +73,26 @@
 | 15 | Synthetic Control                                   | 合成控制法         |
 | 16 | Regression Discontinuity Design                     | 断点回归设计        |
 
-> 📌 第一部分已全部翻译完成，内容涵盖因果推断的基础理论与经典方法，适合入门和系统学习者阅读。欢迎对术语、表达或结构提出建议。
+> 第一部分已全部翻译完成，内容涵盖因果推断的基础理论与经典方法，适合入门和系统学习者阅读。欢迎对术语、表达或结构提出建议。
 
 ### 第二部分（进阶方法与应用） 🚧 翻译中
+
+| 章次 | 英文标题                                                  | 中文标题           |
+| -- | ----------------------------------------------------- | -------------- |
+| 17 | Predictive Models 101                                 | 预测模型入门         |
+| 18 | Heterogeneous Treatment Effects and Personalization   | 异质性处理效应与个性化    |
+| 19 | Evaluating Causal Models                              | 因果模型的评估        |
+| 20 | Plug-and-Play Estimators                              | 即插即用估计量        |
+| 21 | Meta Learners                                         | 元学习器           |
+| 22 | Debiased/Orthogonal Machine Learning                  | 去偏/正交化机器学习     |
+| 23 | Challenges with Effect Heterogeneity and Nonlinearity | 处理效应异质性与非线性的挑战 |
+| 24 | The Difference-in-Differences Saga                    | 双重差分法的演化历程     |
+| 25 | Synthetic Difference-in-Differences                   | 合成双重差分法        |
+
 > 聚焦因果推断中的个性化建模与复杂现实问题，引入机器学习方法应对异质性、非线性与模型评估挑战。
 
 ### 附录 ⏳ 待开始
 > 附录内容为原书作者后续新增章节，涉及预测、模型偏差修正与共形推断等话题，将在第二部分翻译完成后启动。
-
-📌 **欢迎认领章节、提交术语建议或案例补充!** 点击对应章节 PR 或在 Issues 区发起讨论。
-
 
 ## 📜 许可协议（License）
 
