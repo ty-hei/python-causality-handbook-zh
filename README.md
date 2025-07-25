@@ -10,7 +10,7 @@
 
 > **原书名**：Causal Inference for The Brave and True  
 > **原作者**：[Matheus Facure](https://github.com/matheusfacure/python-causality-handbook)  
-> **中文译者**：黄文喆（Wenzhe Huang）、许文立（Wenli Xu)｜澳门城市大学金融学院  
+> **中文译者**：黄文喆（Wenzhe Huang）、许文立（Wenli Xu）｜澳门城市大学金融学院  
 > **联系方式**：carlzhe@outlook.com｜wlxu@cityu.edu.mo  
 > **Live demo（中文版）**：<https://Wenzhe-Huang.github.io/python-causality-handbook-zh/>  
 > **Live demo（英文版）**：<https://matheusfacure.github.io/python-causality-handbook/>  
@@ -27,7 +27,7 @@
 
 ## 👥 关于本译本
 
-本译本由澳门城市大学金融学院的许文立教授与本科生黄文喆合作完成，作为课程学习与研究的一部分。  
+本译本由澳门城市大学金融学院的许文立助理教授与黄文喆本科生合作完成，作为课程学习与研究的一部分。  
 为方便中文读者理解与实践，译文在保留原书结构的基础上，新增了 Stata 实现代码。  
 内容仅代表译者理解，遵循 CC BY-NC-SA 4.0 协议，禁止商业用途，转载请注明出处。
 

@@ -26,3 +26,5 @@ parts:
   - caption: 第二部分 - 阴
     chapters: 
       - file: 17-Predictive-Models-101
+      - file: 18-Heterogeneous-Treatment-Effects-and-Personalization
+      - file: 19-Evaluating-Causal-Models
