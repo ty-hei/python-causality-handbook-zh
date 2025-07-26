@@ -28,3 +28,5 @@ parts:
       - file: 17-Predictive-Models-101
       - file: 18-Heterogeneous-Treatment-Effects-and-Personalization
       - file: 19-Evaluating-Causal-Models
+      - file: 20-Plug-and-Play-Estimators
+      - file: 21-Meta-Learners
