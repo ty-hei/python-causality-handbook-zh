@@ -30,3 +30,14 @@ parts:
       - file: 19-Evaluating-Causal-Models
       - file: 20-Plug-and-Play-Estimators
       - file: 21-Meta-Learners
+      - file: 22-Debiased-Orthogonal-Machine-Learning
+      - file: 23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity
+      - file: 24-The-Diff-in-Diff-Saga
+      - file: 25-Synthetic-Diff-in-Diff
+  - caption: 附录
+    chapters: 
+      - file: Debiasing-with-Orthogonalization
+      - file: Debiasing-with-Propensity-Score
+      - file: When-Prediction-Fails
+      - file: Prediction-Metrics-For-Causal-Models
+      - file: Conformal-Inference-for-Synthetic-Control
