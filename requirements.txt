@@ -2,7 +2,7 @@ jupyter-book
 numpy
 pandas
 scipy
-sklearn
+scikit-learn
 statsmodels
 matplotlib
 seaborn
