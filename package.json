@@ -1,0 +1,21 @@
+{
+  "name": "python-causality-handbook-zh",
+  "version": "1.0.0",
+  "description": "![brave-and-true](/causal-inference-book/images/brave-and-true.png)",
+  "main": "index.js",
+  "scripts": {
+	  "build": "mkdir -p public && jupyter nbconvert --to html --output-dir=public *.ipynb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ty-hei/python-causality-handbook-zh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ty-hei/python-causality-handbook-zh/issues"
+  },
+  "homepage": "https://github.com/ty-hei/python-causality-handbook-zh#readme"
+}
