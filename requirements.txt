@@ -1,2 +1,9 @@
-jupyter
-nbconvert
+jupyter-book
+numpy
+pandas
+scipy
+sklearn
+statsmodels
+matplotlib
+seaborn
+graphviz

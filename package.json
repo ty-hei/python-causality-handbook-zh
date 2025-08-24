@@ -4,7 +4,7 @@
   "description": "![brave-and-true](/causal-inference-book/images/brave-and-true.png)",
   "main": "index.js",
   "scripts": {
-	    "build": "pip install -r requirements.txt && mkdir -p public && jupyter nbconvert --to html --output-dir=public causal-inference-book/*.ipynb && cp -r causal-inference-book/images public/images && mv public/intro.html public/index.html"
+    "build": "pip install -r requirements.txt && jupyter-book build causal-inference-book/"
 
 },
   "repository": {
